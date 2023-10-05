@@ -1,12 +1,12 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
+title: Aidan Weingrad
+email: "acweingrad@gmail.com"
+description: "Modern Web Designer"
 url: "https://acweingrad.github.io"
 baseurl: "/myWebsite"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "aidan369"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Aidan Weingrad
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Web Design Company
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
